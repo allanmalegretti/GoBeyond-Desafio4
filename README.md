@@ -1,3 +1,13 @@
+Desafio final da 3ª Edição do GoBeyond pela Corebiz.
+
+Objetivo do desafio era fazer uma página igual a um exemplo fornecido pela Corebiz:
+https://go-beyond-2021-final-challenge.vercel.app/
+
+Com as especificações do Layout do AdobeXD
+https://xd.adobe.com/view/e100320d-9539-4cd9-9146-e27f75204e69-b453/specs/
+
+Primeira página feita do zero com React, adquiri mais conhecimentos de HTML e CSS e conheci o AdobeXD.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
