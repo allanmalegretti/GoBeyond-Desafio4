@@ -8,13 +8,13 @@ const Footer = () => {
                 <div>
                     <h2 className="corebiz">corebiz.</h2>
                     <p className="direitos">direitos reservados, Corebiz 2021.</p>
-                    <a className="link" href="https://www.instagram.com/allanalegretti/">
+                    <a className="link" href="https://pt-br.facebook.com/corebiz.ag/">
                         <img src="https://cdn-icons-png.flaticon.com/512/2111/2111392.png" alt="Facebook" className="icon" />
                     </a>
-                    <a className="link" href="https://www.instagram.com/allanalegretti/">
+                    <a className="link" href="https://www.instagram.com/corebizag/">
                         <img src="https://seeklogo.com/images/I/instagram-logo-A807AD378B-seeklogo.com.png" alt="Instagram" className="icon" />
                     </a>
-                    <a className="link" href="https://www.linkedin.com/in/allan-alegretti/">
+                    <a className="link" href="https://www.linkedin.com/company/corebiz-brasil">
                         <img src="https://www.pngrepo.com/png/107799/512/linkedin.png" alt="Linkedin" className="icon" />
                     </a>
                 </div>
