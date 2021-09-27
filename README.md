@@ -1,12 +1,16 @@
 Desafio final da 3ª Edição do GoBeyond pela Corebiz.
 
-Objetivo do desafio era fazer uma página igual a um exemplo fornecido pela Corebiz:
-https://go-beyond-2021-final-challenge.vercel.app/
+Objetivo do desafio era fazer uma página igual ao layout fornecido pela Corebiz com o AdobeXD,
+também deveria testar a performance com o LightHouse,
+e usar as imagens dinâmicas através de uma API,
+e fazer um README documentando todo o processo.
 
-Com as especificações do Layout do AdobeXD
-https://xd.adobe.com/view/e100320d-9539-4cd9-9146-e27f75204e69-b453/specs/
+Link XD Desktop: https://xd.adobe.com/view/e100320d-9539-4cd9-9146-e27f75204e69-b453/
+Link XD Mobile: https://xd.adobe.com/view/e100320d-9539-4cd9-9146-e27f75204e69-b453/screen/02609f96-fe10-4a61-b495-782296f4c193/
+Link das instruções para o desenvolvimento: https://whimsical.com/go-beyond-TcK8nmurXeQmuiFyvwy3Kd
+Link da URL de exemplo: https://go-beyond-2021-final-challenge.vercel.app/
 
-Primeira página feita do zero com React, adquiri mais conhecimentos de HTML e CSS e conheci o AdobeXD.
+Primeira página feita do zero com React, adquiri mais conhecimentos de HTML, CSS e JS e conheci o AdobeXD.
 
 # Getting Started with Create React App
 
